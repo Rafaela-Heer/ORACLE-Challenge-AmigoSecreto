@@ -3,6 +3,7 @@
 
 <h2> Site que permite aos usuários inserir nomes de amigos em uma lista e realizar um sorteio aleatório para determinar quem será o "amigo secreto".</h2>
 
+
  ## 🛠️Tecnologias utilizadas 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -34,7 +35,7 @@ https://github.com/Rafaela-Heer/ORACLE-Challenge-AmigoSecreto.git
 2. 🌍**Abra o arquivo `index.html` em um navegador web.**
 
 
-## 🌐Git Hub Pages:
+## 🌐Git Hub Pages
 ```
 https://rafaela-heer.github.io/ORACLE-Challenge-AmigoSecreto/
 ```
