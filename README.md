@@ -36,9 +36,8 @@ https://github.com/Rafaela-Heer/ORACLE-Challenge-AmigoSecreto.git
 
 
 ## 🌐Git Hub Pages
-```
 https://rafaela-heer.github.io/ORACLE-Challenge-AmigoSecreto/
-```
+
 
   ## Autoria:
   - **Rafaela Heer Robinson**
